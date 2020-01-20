@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Abdulmatin Akindele.
+## Computer Information Systems Major
+### Loves to run/ sleep/ cook.
